@@ -305,6 +305,11 @@ html {
     padding: 2rem 1rem;
 }
 
+.contact-info a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .contact-icon {
     width: 80px;
     height: 80px;
